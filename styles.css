@@ -150,7 +150,7 @@ h2 {
     transform: rotate(-90deg);
     transform-origin: right center;
 }
-.opcao-acessibilidade{
+.opcoes-acessibilidade{
     margin-top: 10px;
     display: flex;
     flex-direction: column;
